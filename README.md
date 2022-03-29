@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mgmehra2005
-- 👀 I’m interested in Computer Science.
+- 👀 I’m interested in ✨Computer Science✨
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Github.
 - 📫 How to reach me ....
