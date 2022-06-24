@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mgmehra2005
 - 👀 I’m interested in ✨Hacking✨
-- 🌱 I’m currently learning *****
+- 🌱 I’m currently learning Python
 - Feel free to contribute in my Programs
 
 <!---
