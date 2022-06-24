@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mgmehra2005
-- 👀 I’m interested in ✨Computer Science✨
-- 🌱 I’m currently learning Python.
-- Feel free to contribute.
+- 👀 I’m interested in ✨Hacking✨
+- 🌱 I’m currently learning *****
+- Feel free to contribute in my Programs
 
 <!---
 mgmehra2005/mgmehra2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
