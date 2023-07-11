@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mgmehra2005
-- 👀 I’m interested in ✨Hacking✨
-- 🌱 I’m currently learning Python
+<h1 align="center">👋 Hey, I’m Matang Mehra</h1>
+<p>I'm a BTech student at <a href="https://www.accurate.in/">Accurate Institue of Management And Tecnology</a> majoring in Computer Science. I'm passionate about programming and I'm always looking for new challenges.</p>
+<br>
 - Feel free to contribute in my Programs
 
 <h3>My Achivements</h3>
