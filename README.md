@@ -3,10 +3,11 @@
 <br>
 - Feel free to contribute in my Programs
 
-<h3>My Achivements</h3>
+<h2>My Achivements</h2>
 <br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="My Trophies"/></p>
-<!---
-mgmehra2005/mgmehra2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h2>Contact Me</h2>
+You can reach me at - 
+<br>
+<a href="https://www.instagram.com/matang_mehra/"> <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" alt="Instagram" height=30 width=30/></a>
