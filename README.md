@@ -10,4 +10,4 @@
 <h2>Contact Me</h2>
 You can reach me at - 
 <br>
-<a href="https://www.instagram.com/matang_mehra/"> <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" alt="Instagram" height=30 width=30/></a>
+<a href="https://www.instagram.com/matang_mehra/"> <img src="https://github.com/mgmehra2005/mgmehra2005/blob/main/icons/Instagram.png" alt="Instagram" height=30 width=30/></a>
