@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hey, I’m Matang Mehra</h1>
-<p>I'm a BTech student at <a href="https://www.accurate.in/">Accurate Institue of Management And Tecnology</a> majoring in Computer Science. I'm passionate about programming and I'm always looking for new challenges.</p>
+<p>I'm a BTech student at <a href="https://www.accurate.in/">Accurate Institue of Management And Tecnology</a> majoring in Computer Science. I'm passionate about programming, ethical hacking, video editing, and graphic design. I am also a skilled developer with experience in Python, Python Tkinter, HTML, and CSS. </p>
+
+I am Matang Mehra Student of B.Tech CSE with a passion for . I have previously achieved third place in a competition for creating a website on climate action. I have also participated in many competitions. My GitHub page showcases my projects in Python, Python Tkinter, HTML, and CSS. I am a highly motivated and results-oriented individual with a strong work ethic. I am also a team player and always willing to help others. I am also looking for an internship or entry-level position in a technology company where I can apply my skills and knowledge to make a positive impact on the world.
 <br>
 - Feel free to contribute in my Programs
 
