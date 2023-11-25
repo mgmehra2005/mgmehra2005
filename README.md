@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I’m Matang Mehra</h1>
-<p>I'm a BTech student at <a href="https://www.accurate.in/">Accurate Institue of Management And Tecnology</a> majoring in Computer Science. I'm passionate about programming, ethical hacking, video editing, and graphic design. I am also a skilled developer with experience in Python, Python Tkinter, HTML, and CSS. </p>
+<p>I'm a BTech student at Dr. A.P.J. Abdul Kalam Technical University majoring in Computer Science. I'm passionate about programming, ethical hacking, video editing, and graphic design. I am also a skilled developer with experience in Python, Python Tkinter, HTML, and CSS. </p>
 
 <br>
 - Feel free to contribute in my Programs
