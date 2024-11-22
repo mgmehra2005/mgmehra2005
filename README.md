@@ -13,5 +13,5 @@ You can reach me at -
 <br>
 <a href="https://www.instagram.com/matang_mehra/"> <img src="https://github.com/mgmehra2005/mgmehra2005/blob/main/icons/Instagram.png" alt="Instagram" height=30 width=30/></a>
 <a href="https://www.linkedin.com/in/matang-mehra-b28b38265"> <img src="https://github.com/mgmehra2005/mgmehra2005/blob/main/icons/LinkedIn.png" alt="LinkedIn" height=30 width=30/></a>
-<a href="mailto:matangmehra@gmail.com"> <img src="https://github.com/mgmehra2005/mgmehra2005/blob/main/icons/Email.png" alt="Email" height=30 width=30/></a>
+<a href="mailto:matangmehra+public@gmail.com"> <img src="https://github.com/mgmehra2005/mgmehra2005/blob/main/icons/Email.png" alt="Email" height=30 width=30/></a>
 <a href="https://twitter.com/matang_mehra"> <img src="https://github.com/mgmehra2005/mgmehra2005/blob/main/icons/Twitter.png" alt="Twitter" height=30 width=30/></a>
