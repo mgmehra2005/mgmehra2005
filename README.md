@@ -17,6 +17,7 @@ I'm a B.Tech student at Dr. A.P.J. Abdul Kalam Technical University majoring in 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How Data Flows Over the Internet?](https://medium.com/@matangmehra/every-person-should-know-this-while-surfing-internet-f667b1795dfb?source=rss-e036822575bc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
