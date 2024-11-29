@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matang Mehra</h1>
-<h3>
+<p>
 I'm a B.Tech student at Dr. A.P.J. Abdul Kalam Technical University majoring in Computer Science. I'm passionate about programming, 💻ethical hacking, 📹video editing, and graphic design. I am also a skilled developer with experience in Python, Python Tkinter, HTML, and CSS.
-</h3>
+</p>
 
 - 🔭 I’m currently working on **InfoBotX ( College Mini Project )**
 
