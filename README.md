@@ -9,7 +9,7 @@ I'm a B.Tech student at Dr. A.P.J. Abdul Kalam Technical University majoring in 
 
 - 👨‍💻 All of my projects are available at [matangmehra.me](https://matangmehra.me)
 
-- 📝 I regularly write articles on [matangmehra.me/blogs](https://matangmehra.me/#blogs)
+- 📝 I regularly write articles on [matangmehra.me/blogs](https://matangmehra.me/blogs)
 
 - 💬 Ask me about **Python, JavaScript**
 
