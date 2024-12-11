@@ -17,8 +17,8 @@ I'm a B.Tech student at Dr. A.P.J. Abdul Kalam Technical University majoring in 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to make forms in a flask application?](https://medium.com/@matangmehra/how-to-make-forms-in-a-flask-application-8719e41d1c50?source=rss-e036822575bc------2)
-- [How Data Flows Over the Internet?](https://medium.com/@matangmehra/every-person-should-know-this-while-surfing-internet-f667b1795dfb?source=rss-e036822575bc------2)
+- [How to Build and Handle Forms in Flask with Python: A Step-by-Step Guide](https://medium.com/@matangmehra/how-to-make-forms-in-a-flask-application-8719e41d1c50?source=rss-e036822575bc------2)
+- [Understanding How Data Flows Over the Internet: A Simple Guide to Internet Data Transmission](https://medium.com/@matangmehra/every-person-should-know-this-while-surfing-internet-f667b1795dfb?source=rss-e036822575bc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
