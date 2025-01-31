@@ -5,7 +5,7 @@ I'm a B.Tech student at Dr. A.P.J. Abdul Kalam Technical University majoring in 
 
 - 🔭 I’m currently working on **InfoBotX ( College Mini Project )**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Frontend Web Development**
 
 - 👨‍💻 All of my projects are available at [matangmehra.me](https://matangmehra.me)
 
