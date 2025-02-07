@@ -17,6 +17,7 @@ I'm a B.Tech student at Dr. A.P.J. Abdul Kalam Technical University majoring in 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Uninstall Applications Installed via Wine on Linux](https://medium.com/@matangmehra/how-to-uninstall-applications-installed-via-wine-on-linux-970cf08a481c?source=rss-e036822575bc------2)
 - [Mbps vs MBps: The Key Differences You Need to Know](https://medium.com/@matangmehra/mbps-vs-mbps-the-key-differences-you-need-to-know-f09cfcf94d82?source=rss-e036822575bc------2)
 - [How to Build and Handle Forms in Flask with Python: A Step-by-Step Guide](https://medium.com/@matangmehra/how-to-make-forms-in-a-flask-application-8719e41d1c50?source=rss-e036822575bc------2)
 - [Understanding How Data Flows Over the Internet: A Simple Guide to Internet Data Transmission](https://medium.com/@matangmehra/every-person-should-know-this-while-surfing-internet-f667b1795dfb?source=rss-e036822575bc------2)
