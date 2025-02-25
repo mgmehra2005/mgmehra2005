@@ -17,6 +17,7 @@ I'm a B.Tech student at Dr. A.P.J. Abdul Kalam Technical University majoring in 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing Grand Theft Auto 5 &lpar;GTA 5&rpar; on Manjaro Linux with Lutris: A Step-by-Step Guide](https://medium.com/@matangmehra/installing-grand-theft-auto-5-gta-5-on-manjaro-linux-with-lutris-a-step-by-step-guide-a9f9084c9782?source=rss-e036822575bc------2)
 - [How to Uninstall Applications Installed via Wine on Linux](https://medium.com/@matangmehra/how-to-uninstall-applications-installed-via-wine-on-linux-970cf08a481c?source=rss-e036822575bc------2)
 - [Mbps vs MBps: The Key Differences You Need to Know](https://medium.com/@matangmehra/mbps-vs-mbps-the-key-differences-you-need-to-know-f09cfcf94d82?source=rss-e036822575bc------2)
 - [How to Build and Handle Forms in Flask with Python: A Step-by-Step Guide](https://medium.com/@matangmehra/how-to-make-forms-in-a-flask-application-8719e41d1c50?source=rss-e036822575bc------2)
