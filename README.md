@@ -46,4 +46,4 @@ OPERATING SYSTEMS :| <a href="https://www.linux.org/" target="_blank" rel="noref
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgmehra2005&show_icons=true&locale=en" alt="mgmehra2005" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgmehra2005&theme=dark" alt="mgmehra2005" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgmehra2005" alt="mgmehra2005" /></p>
