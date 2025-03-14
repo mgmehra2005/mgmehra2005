@@ -1,14 +1,40 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs every hour based on IST (UTC+5:30)
+    # To run at the top of every hour in IST, we need to offset by 5:30 hours from UTC
+    # For example, to run at 1:00 PM IST, we'd set it to 7:30 UTC
+    # This cron runs at the start of every hour in IST
+    - cron: '30 */1 * * *'
+  # Allow manual triggering
+  workflow_dispatch:
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+        continue-on-error: false
+
+      - name: Update README with latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: 'https://medium.com/feed/@matangmehra'
+          max_post_count: 5
+          retry_count: 3
+          retry_wait_time: 10
+          commit_message: 'Updated with latest blog posts'
+          committer_username: 'github-actions[bot]'
+          committer_email: 'github-actions[bot]@users.noreply.github.com'
+        continue-on-error: true
+        id: blog_post_workflow
+
+      - name: Report workflow status
+        if: steps.blog_post_workflow.outcome == 'failure'
+        run: |
+          echo "::warning::Failed to update README with latest blog posts. Please check feed URL and workflow configuration."
+          exit 0
