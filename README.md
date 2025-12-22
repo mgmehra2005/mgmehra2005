@@ -24,6 +24,12 @@ I'm a B.Tech student at Dr. A.P.J. Abdul Kalam Technical University majoring in 
 - [Installing Grand Theft Auto 5 &lpar;GTA 5&rpar; on Manjaro Linux with Lutris: A Step-by-Step Guide](https://medium.com/@matangmehra/installing-grand-theft-auto-5-gta-5-on-manjaro-linux-with-lutris-a-step-by-step-guide-a9f9084c9782?source=rss-e036822575bc------2)
 <!-- BLOG-POST-LIST:END -->
 
+### Checkout My Practice Projects
+#### Minor
+* [Simple Web Snake Water Gun Game](https://mgmehra2005.github.io/Snake-Water-Gun/)
+* [Jokesphere - Simple Joke Reading page](https://mgmehra2005.github.io/jokesphere/)
+* [Simple Pomodoro Timer](https://mgmehra2005.github.io/Pomodoro-Web-Application/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/matang_mehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matang_mehra" height="30" width="40" /></a>
