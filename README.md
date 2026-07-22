@@ -17,11 +17,11 @@ I'm a B.Tech student at Dr. A.P.J. Abdul Kalam Technical University majoring in 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Game-Changing Web Development Tips Every Beginner Needs to Know](https://medium.com/@matangmehra/5-game-changing-web-development-tips-every-beginner-needs-to-know-2ca33c8fde6c?source=rss-e036822575bc------2)
+- [Is Your “Unlimited” Airtel 5G Actually Limited? The 300GB Hidden Catch Explained!](https://medium.com/@matangmehra/is-your-unlimited-airtel-5g-actually-limited-the-300gb-hidden-catch-explained-43cb1786c209?source=rss-e036822575bc------2)
 - [Stop guessing, start designing: 4 Pillars of Masterful Database Design](https://medium.com/@matangmehra/stop-guessing-start-designing-4-pillars-of-masterful-database-design-d69203629d32?source=rss-e036822575bc------2)
 - [This Free &amp; Open Source PDF Editor Made My Life Super Easy](https://medium.com/@matangmehra/this-free-open-source-pdf-editor-made-my-life-super-easy-680227a32b77?source=rss-e036822575bc------2)
 - [Unlock AI’s Potential: The Art and Science of Writing Powerful Prompts](https://medium.com/@matangmehra/unlock-ais-potential-the-art-and-science-of-writing-powerful-prompts-4e743bb8c266?source=rss-e036822575bc------2)
-- [How to Fix “Unable to Mount Drive” Errors in Linux”](https://medium.com/@matangmehra/how-to-fix-unable-to-mount-drive-errors-in-linux-a07418ac9403?source=rss-e036822575bc------2)
-- [Tired of Cloud Clutter? Discover the Power of Syncthing for Seamless File Sync!](https://medium.com/@matangmehra/tired-of-cloud-clutter-discover-the-power-of-syncthing-for-seamless-file-sync-f12559ca8c36?source=rss-e036822575bc------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Checkout My Practice Projects
