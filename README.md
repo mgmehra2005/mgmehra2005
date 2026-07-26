@@ -17,11 +17,11 @@ I'm a B.Tech student at Dr. A.P.J. Abdul Kalam Technical University majoring in 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Are You Pursuing the Wrong Goals? Do These 5 Quick Exercises Today to Find Out!](https://medium.com/@matangmehra/are-you-pursuing-the-wrong-goals-do-these-5-quick-exercises-today-to-find-out-669e08a75812?source=rss-e036822575bc------2)
 - [5 Game-Changing Web Development Tips Every Beginner Needs to Know](https://medium.com/@matangmehra/5-game-changing-web-development-tips-every-beginner-needs-to-know-2ca33c8fde6c?source=rss-e036822575bc------2)
 - [Is Your “Unlimited” Airtel 5G Actually Limited? The 300GB Hidden Catch Explained!](https://medium.com/@matangmehra/is-your-unlimited-airtel-5g-actually-limited-the-300gb-hidden-catch-explained-43cb1786c209?source=rss-e036822575bc------2)
 - [Stop guessing, start designing: 4 Pillars of Masterful Database Design](https://medium.com/@matangmehra/stop-guessing-start-designing-4-pillars-of-masterful-database-design-d69203629d32?source=rss-e036822575bc------2)
 - [This Free &amp; Open Source PDF Editor Made My Life Super Easy](https://medium.com/@matangmehra/this-free-open-source-pdf-editor-made-my-life-super-easy-680227a32b77?source=rss-e036822575bc------2)
-- [Unlock AI’s Potential: The Art and Science of Writing Powerful Prompts](https://medium.com/@matangmehra/unlock-ais-potential-the-art-and-science-of-writing-powerful-prompts-4e743bb8c266?source=rss-e036822575bc------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Checkout My Practice Projects
