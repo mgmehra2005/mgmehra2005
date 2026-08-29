@@ -7,9 +7,9 @@ I'm a B.Tech student at Dr. A.P.J. Abdul Kalam Technical University majoring in 
 
 - 🌱 I’m currently learning **Frontend Web Development**
 
-- 👨‍💻 All of my projects are available at [matangmehra](https://my-portfolio-lac-nine-82.vercel.app/)
+- 👨‍💻 All of my projects are available at [matangmehra](https://matangmehra.vercel.app/)
 
-- 📝 I regularly write articles on [matangmehra/blogs](https://my-portfolio-lac-nine-82.vercel.app/blogs)
+- 📝 I regularly write articles on [matangmehra/blogs](https://matangmehra.vercel.app/#blogs)
 
 - 💬 Ask me about **Python, JavaScript**
 
