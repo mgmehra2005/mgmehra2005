@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matang Mehra</h1>
 <p>
-I'm a B.Tech student at Dr. A.P.J. Abdul Kalam Technical University majoring in Computer Science. I'm passionate about programming, 💻ethical hacking, 📹video editing, and graphic design. I am also a skilled developer with experience in Python, Python Tkinter, HTML, and CSS.
+I'm a simple guy who enjoys listening to music, reading books, living near nature, and capturing nature in photographs. I believe in learning more deeply rather than relying on AI for simple tasks. You cannot become better than a machine, but you can become better than the person who created that machine. Learning and building are my hobbies, and I enjoy creating solutions to problems because it gives me hope for the future.
 </p>
 
-- 🔭 I’m currently working on **InfoBotX ( College Mini Project )**
-
-- 🌱 I’m currently learning **Frontend Web Development**
+- 🌱 I’m currently working on **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [matangmehra](https://matangmehra.vercel.app/)
 
